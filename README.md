@@ -4,7 +4,7 @@
 
 - basic structures, if needed (depends on teachers comfort level)
     + create number game? (guess a number from 1 to 100, keep guessing until you get it)
-- use turtlees to create:
+- use turtles to create:
     + regular polygons
     + draw face of clock
     + [turtle confusion questions](http://wmcicompsci.ca/cs20/turtleconfusion/)
